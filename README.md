@@ -26,5 +26,5 @@
     📪 More about me
   </p>
   <p>
-    <a href="https://github.com/DongKey777"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@dongkey"></a>
+    <a href="https://velog.io/@dongkey"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@dongkey"></a>
     <a href="mailto:ldh950806@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:ldh950806@gmail.com"></a>
